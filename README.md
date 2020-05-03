@@ -8,4 +8,4 @@ After performing EDA and Feature Engineering, an XGBoost Regressor is used to cr
 The notebook and prediction csv were submitted to the KAGGLE competition link below.
 
 
-https://www.kaggle.com/c/covid19-global-forecasting-week-3/data
+https://www.kaggle.com/c/covid19-global-forecasting-week-4/data
